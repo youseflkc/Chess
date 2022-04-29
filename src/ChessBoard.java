@@ -1,3 +1,8 @@
+/**
+ * 8 x 8 board for the game to be played on
+ * Chessboard drawn using a jpanel with gridlayout.
+ */
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;

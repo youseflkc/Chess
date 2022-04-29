@@ -1,3 +1,9 @@
+/**
+ * Generic chess piece class that draws the chesspiece and sets the coordinates.
+ * Each chesspiece will inherit from this class and then draw that specific chess piece.
+ * Each chesspiece class will also set the possible moves it can make dependant on that type of piece.
+ */
+
 import java.awt.Color;
 import java.awt.Point;
 import java.awt.geom.Rectangle2D;
